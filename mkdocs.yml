@@ -1,6 +1,7 @@
 site_name: Easy-MkDocs
 repo_url: https://github.com/aaronaddleman/easy-mkdocs
 repo_name: easy-mkdocs
+edit_uri: edit/main/docs/
 plugins:
   - monorepo
   - search
