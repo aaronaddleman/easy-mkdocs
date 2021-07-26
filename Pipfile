@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jinja2 = "*"
+mkdocs-monorepo-plugin = "*"
+mkdocs-material = "*"
+mkdocs-macros-plugin = "*"
+mkdocs-git-revision-date-plugin = "*"
+mkdocs-exclude-search = "*"
+mkdocs = "==1.1.2"
+plantuml-markdown = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9.6"
